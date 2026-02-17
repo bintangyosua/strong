@@ -41,17 +41,12 @@ def _():
     import marimo as mo
 
     import pandas as pd
-    import random
     from datetime import datetime, timedelta
 
-    import matplotlib.pyplot as plt
-    import seaborn as sns
     import altair as alt
 
     import io
     import urllib.request
-
-    sns.set_theme(style="whitegrid")
 
     import warnings
 
