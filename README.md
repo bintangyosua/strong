@@ -1,12 +1,12 @@
 ---
-title: marimo app template
+title: Strong
 emoji: 🍃
 colorFrom: indigo
 colorTo: purple
 sdk: docker
 pinned: true
 license: mit
-short_description: Template for deploying a marimo application to HF
+short_description: be strong buddy
 ---
 
 Check out marimo at <https://github.com/marimo-team/marimo>
